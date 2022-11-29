@@ -1,0 +1,11 @@
+.navbar {
+    background-color: rgba(185, 185, 185, 1);
+}
+.fondo{
+    background-image: url('recursos/fondo.png');
+    background-attachment: fixed;
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
